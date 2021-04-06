@@ -1,4 +1,4 @@
-# entity-related-papers
+# paraphrase-related-papers
 
 ### [ACL 2020](https://www.aclweb.org/anthology/events/acl-2020/)
 
